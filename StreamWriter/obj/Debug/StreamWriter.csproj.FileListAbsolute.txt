@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Users\ucenik\source\repos\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\ucenik\source\repos\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\ucenik\source\repos\StreamWriter\obj\Debug\StreamWriter.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\StreamWriter\obj\Debug\StreamWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\StreamWriter\obj\Debug\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Users\ucenik\source\repos\StreamWriter\obj\Debug\StreamWriter.pdb
